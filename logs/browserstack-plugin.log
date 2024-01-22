@@ -1,0 +1,156 @@
+15:45:58.459 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:45:58.511 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.2, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=YOUR_ACCESS_KEY, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=YOUR_USERNAME, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=java:eclipse:v1.0.3]
+15:51:01.206 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:51:01.206 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:51:01.207 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:51:01.208 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:51:01.208 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:51:01.209 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:51:02.607 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:51:02.608 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:51:02.609 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:51:02.610 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:51:02.610 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:51:02.611 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:51:45.954 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:51:45.965 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.2, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=kjJx4UbX6XcyhCZ5VyYc, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=openpolytechnic1, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStackAuto, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.3]
+15:51:45.971 [Worker-40: Launching mavenrun-1f99648a-88b1-4ca6-9fb7-c0a631c23741] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:52:13.070 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:52:13.070 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:52:13.071 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:52:13.072 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:52:13.072 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:52:13.075 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:55:36.930 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:55:36.930 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:55:36.931 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:55:36.932 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:55:36.932 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:55:36.933 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:56:28.983 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:56:28.983 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:56:28.984 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:56:28.985 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:56:28.985 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:56:28.986 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:56:42.289 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:56:42.290 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:56:42.291 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:56:42.291 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:56:42.291 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:56:42.292 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:57:03.135 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:57:03.135 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:57:03.136 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:57:03.137 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:57:03.137 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:57:03.137 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:57:20.525 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:57:20.525 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:57:20.526 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:57:20.526 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:57:20.526 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:57:20.527 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:57:56.365 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:57:56.365 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:57:56.366 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Automation
+15:57:56.367 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:57:56.367 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:57:56.368 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Automation
+15:59:19.883 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:59:19.883 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:59:19.884 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:59:19.885 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:59:19.885 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:59:19.886 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+15:59:27.035 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:59:27.041 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:59:27.049 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/BrowserStackAutomationSuite
+15:59:27.050 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:59:27.055 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:59:27.062 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/BrowserStackAutomationSuite
+16:00:32.687 [Framework stop - Equinox Container: e4c52d0f-e722-4be3-bcdd-a3db4843c536] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+02:38:33.632 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+02:38:33.644 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+03:03:46.571 [ApplicationImpl pooled thread 882] INFO  c.b.l.BrowserStackRunExtension - testng
+03:03:46.571 [ApplicationImpl pooled thread 882] INFO  com.browserstack.utils.Helpers - null
+03:03:46.571 [ApplicationImpl pooled thread 882] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:03:46.571 [ApplicationImpl pooled thread 882] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:03:46.571 [ApplicationImpl pooled thread 882] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:06:31.455 [ApplicationImpl pooled thread 887] INFO  c.b.l.BrowserStackRunExtension - testng
+03:06:31.455 [ApplicationImpl pooled thread 887] INFO  com.browserstack.utils.Helpers - null
+03:06:31.455 [ApplicationImpl pooled thread 887] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:06:31.455 [ApplicationImpl pooled thread 887] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:06:31.455 [ApplicationImpl pooled thread 887] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:08:00.293 [ApplicationImpl pooled thread 898] INFO  c.b.l.BrowserStackRunExtension - testng
+03:08:00.293 [ApplicationImpl pooled thread 898] INFO  com.browserstack.utils.Helpers - null
+03:08:00.293 [ApplicationImpl pooled thread 898] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:08:00.293 [ApplicationImpl pooled thread 898] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:08:00.293 [ApplicationImpl pooled thread 898] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:09:09.092 [ApplicationImpl pooled thread 896] INFO  c.b.l.BrowserStackRunExtension - testng
+03:09:09.093 [ApplicationImpl pooled thread 896] INFO  com.browserstack.utils.Helpers - null
+03:09:09.093 [ApplicationImpl pooled thread 896] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:09:09.093 [ApplicationImpl pooled thread 896] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:09:09.093 [ApplicationImpl pooled thread 896] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:19:02.527 [ApplicationImpl pooled thread 909] INFO  c.b.l.BrowserStackRunExtension - testng
+03:19:02.528 [ApplicationImpl pooled thread 909] INFO  com.browserstack.utils.Helpers - null
+03:19:02.528 [ApplicationImpl pooled thread 909] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:19:02.528 [ApplicationImpl pooled thread 909] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:19:02.528 [ApplicationImpl pooled thread 909] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:19:35.343 [ApplicationImpl pooled thread 901] INFO  c.b.l.BrowserStackRunExtension - testng
+03:19:35.343 [ApplicationImpl pooled thread 901] INFO  com.browserstack.utils.Helpers - null
+03:19:35.343 [ApplicationImpl pooled thread 901] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:19:35.343 [ApplicationImpl pooled thread 901] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:19:35.343 [ApplicationImpl pooled thread 901] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:21:03.998 [ApplicationImpl pooled thread 919] INFO  c.b.l.BrowserStackRunExtension - testng
+03:21:03.998 [ApplicationImpl pooled thread 919] INFO  com.browserstack.utils.Helpers - null
+03:21:03.998 [ApplicationImpl pooled thread 919] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:21:03.998 [ApplicationImpl pooled thread 919] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:21:03.998 [ApplicationImpl pooled thread 919] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:22:41.663 [ApplicationImpl pooled thread 925] INFO  c.b.l.BrowserStackRunExtension - testng
+03:22:41.663 [ApplicationImpl pooled thread 925] INFO  com.browserstack.utils.Helpers - null
+03:22:41.665 [ApplicationImpl pooled thread 925] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:22:41.665 [ApplicationImpl pooled thread 925] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:22:41.665 [ApplicationImpl pooled thread 925] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:23:34.534 [ApplicationImpl pooled thread 932] INFO  c.b.l.BrowserStackRunExtension - testng
+03:23:34.535 [ApplicationImpl pooled thread 932] INFO  com.browserstack.utils.Helpers - null
+03:23:34.535 [ApplicationImpl pooled thread 932] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:23:34.535 [ApplicationImpl pooled thread 932] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:23:34.535 [ApplicationImpl pooled thread 932] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+03:25:19.868 [ApplicationImpl pooled thread 928] INFO  c.b.l.BrowserStackRunExtension - testng
+03:25:19.868 [ApplicationImpl pooled thread 928] INFO  com.browserstack.utils.Helpers - null
+03:25:19.868 [ApplicationImpl pooled thread 928] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:25:19.868 [ApplicationImpl pooled thread 928] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+03:25:19.868 [ApplicationImpl pooled thread 928] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+16:08:13.995 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+16:08:13.998 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+16:08:13.999 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+16:08:14.010 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+16:08:14.010 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+16:08:14.011 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+16:08:15.422 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+16:08:15.422 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+16:08:15.422 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+16:08:15.428 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+16:08:15.428 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.1/browserstack-java-sdk-1.12.1.jar
+16:08:15.428 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+16:08:52.160 [ApplicationImpl pooled thread 293] INFO  c.b.l.BrowserStackRunExtension - testng
+16:08:52.160 [ApplicationImpl pooled thread 293] INFO  com.browserstack.utils.Helpers - null
+16:08:52.160 [ApplicationImpl pooled thread 293] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+16:08:52.160 [ApplicationImpl pooled thread 293] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+16:08:52.160 [ApplicationImpl pooled thread 293] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+12:59:08.328 [ApplicationImpl pooled thread 557] INFO  c.b.l.BrowserStackRunExtension - testng
+12:59:08.328 [ApplicationImpl pooled thread 557] INFO  com.browserstack.utils.Helpers - null
+12:59:08.328 [ApplicationImpl pooled thread 557] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+12:59:08.328 [ApplicationImpl pooled thread 557] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+12:59:08.328 [ApplicationImpl pooled thread 557] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+13:16:51.594 [ApplicationImpl pooled thread 579] INFO  c.b.l.BrowserStackRunExtension - testng
+13:16:51.594 [ApplicationImpl pooled thread 579] INFO  com.browserstack.utils.Helpers - null
+13:16:51.594 [ApplicationImpl pooled thread 579] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+13:16:51.594 [ApplicationImpl pooled thread 579] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+13:16:51.594 [ApplicationImpl pooled thread 579] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+15:46:09.098 [ApplicationImpl pooled thread 820] INFO  c.b.l.BrowserStackRunExtension - testng
+15:46:09.098 [ApplicationImpl pooled thread 820] INFO  com.browserstack.utils.Helpers - null
+15:46:09.100 [ApplicationImpl pooled thread 820] INFO  com.browserstack.utils.Helpers - /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+15:46:09.100 [ApplicationImpl pooled thread 820] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/grandelrobert/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.0/browserstack-java-sdk-1.13.0.jar
+15:46:09.100 [ApplicationImpl pooled thread 820] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
